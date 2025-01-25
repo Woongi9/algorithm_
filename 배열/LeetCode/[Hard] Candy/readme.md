@@ -1,6 +1,6 @@
 ## Candy
 
-> [문제 링크]([https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1184588610/?envType=study-plan-v2&envId=top-interview-150](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150))
+> [문제 링크](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)
 
 ``` java
 class Solution {
